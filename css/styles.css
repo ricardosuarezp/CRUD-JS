@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container h1{
+    text-align: center;
+}
+#btnUpdate{
+    display: none;
+}
